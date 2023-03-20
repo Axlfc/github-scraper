@@ -1,5 +1,5 @@
 # github-scraper
-Let's scrape those repos!!
+Let's scrape those repos from that user!!
 
 
 ## Usage:
